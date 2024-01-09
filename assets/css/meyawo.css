@@ -12182,6 +12182,10 @@ pre .code {
   width: 100%;
   margin-bottom: 15px;
 }
+.about-img{
+  border-radius: 10%;
+
+}
 
 .about-caption {
   -webkit-box-flex: 1;
