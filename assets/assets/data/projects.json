@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Color Rash Game",
+    "description": "A fast-paced Flutter game for Android and iOS with a minimalist design. Made with Flutter Flame lightweight game engine along with Riverpod for State Management",
+    "image_path": "assets/gif/color_rash_portfolio.png",
+    "link": "https://play.google.com/store/apps/details?id=com.colorrash.color_rash"
+  },
+  {
+    "title": "My Portfolio Website",
+    "description": "The responsive portfolio you are currently viewing, built with Flutter.",
+    "image_path": "assets/gif/aslm_portfolio.png",
+    "link": ""
+  },
+  {
+    "title": "Toyota Mobile App",
+    "description": "A robust Android native application developed for a major client, Toyota Egypt. The app was built using  RxJava for reactive programming, and a clean architecture to ensure a high level of maintainability and scalability.",
+    "image_path": "assets/gif/toyota_portfolio.png",
+    "link": "https://play.google.com/store/apps/details?id=com.code95.toyotaegypt.app"
+  },
+  {
+    "title": "FitForm App",
+    "description": "A lightweight and intuitive health app designed for Android. Engineered using modern Android native technologies, including Jetpack Compose,Kotlin Coroutines to provide a seamless and visually clean user experience.",
+    "image_path": "assets/gif/fitform_portfolio.png",
+    "link": "https://play.google.com/store/apps/details?id=com.aslmmovic.fitformbmi"
+  }
+]
